@@ -1,0 +1,6 @@
+----- 1.0.9 ------
+- penghapusan #1 dan #2 
+- perbaikan pada sendinbox.bat (tambahan pause dan auto clear)
+- perubahan pada token , di setting pada file token-sendinbox.txt
+- perbaruan files phpmailer sender naik versi ke 6.0.1
+- penambahan fitur magic sendibox
